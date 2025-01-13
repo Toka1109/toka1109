@@ -2,7 +2,7 @@
 
 I am a hobbyist. Only in testing phases.
 
-<img src="https://imgur.com/a/KXTGsv7" width="300" height="300">
+<img src="https://i.imgur.com/f7tpVg1.jpeg" width="300" height="300">
 
 ## 🌐 You can talk to me here 👍
 [Discord](https://discordapp.com/users/1038785879944216647)
